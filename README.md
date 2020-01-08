@@ -2,9 +2,8 @@
 Example code demonstrating how to retrieve trace/measurement data fromt he HP8559A spectrum analyzer using Python or MATLAB. The scripts  communicate to the instrument via the GPIB/HPIB interface using a Prologix GPIB-USB controller.
 
 # File Descriptions
-HP853A_HP8559A_Example.py provides the example for using Python to control the spectrum analyzer
-HP853A_HP8559A_Example.m provides the example for using MATLAB to control the spectrum analyzer
-PrologixGpibUsbManual-6.0.pdf user manual for GPIB controller
+- *HP853A_HP8559A_Example.py* provides the example for using Python to control the spectrum analyzer
+- *HP853A_HP8559A_Example.m* provides the example for using MATLAB to control the spectrum analyzer
 
 # Usage
 1. Download Python v2.7 or MATLAB (choose 32 or 64 bit based on the your OS bitness)
